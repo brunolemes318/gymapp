@@ -1,0 +1,26 @@
+
+[{
+  "title": "The Scientific 7 minute workout",
+  "exercises": [
+    {
+      "title":"Squat",
+      "prelude":"3",
+      "duration":"10"
+    },
+  
+    {
+      "title":"Deadlift",
+      "prelude":"3",
+      "duration":"10"
+    },
+  
+    {
+      "title":"Bench Press",
+      "prelude":"3",
+      "duration":"10"
+    }
+  ]
+}
+  
+]
+
